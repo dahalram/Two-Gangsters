@@ -1,3 +1,7 @@
+/*
+The answer basically lies in sybtracting one from each person's total available shots and then printing it in the opposite order
+*/
+
 #include <iostream>
 
 using namespace std;
